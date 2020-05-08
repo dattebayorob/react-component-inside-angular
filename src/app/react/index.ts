@@ -1,0 +1,1 @@
+export { GambsComponent } from './gambs.component';
